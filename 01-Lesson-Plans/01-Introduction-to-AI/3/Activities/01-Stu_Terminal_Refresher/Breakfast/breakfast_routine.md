@@ -1,10 +1,10 @@
-## Breakfast Routine
+# Breakfast Routine
 
 - Wake up
 
 - Walk Dog
 
-# Do we have a coupon or free coffee?
+## Do we have a coupon or free coffee?
 
 - Get in car
 
