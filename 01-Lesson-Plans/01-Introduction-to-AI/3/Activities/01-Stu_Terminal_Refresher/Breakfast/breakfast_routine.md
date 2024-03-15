@@ -1,13 +1,13 @@
 ## Breakfast Routine
 
-# Wake up
+- Wake up
 
-# Walk Dog
+- Walk Dog
 
-## Do we have a coupon or free coffee?
+# Do we have a coupon or free coffee?
 
-# Get in car
+- Get in car
 
-# Go to Dunkin Donuts
+- Go to Dunkin Donuts
 
-# Go to Chic Fil A
+- Go to Chic Fil A
