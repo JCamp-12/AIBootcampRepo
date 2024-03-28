@@ -11,6 +11,7 @@ def calculate_future_value(current_loan_value, annual_interest_rate, months_rema
     Returns:
         Prints the future value of the loan as a float.
     """
+    print('we got the new function!!')
     future_value = current_loan_value * (1 + (annual_interest_rate / 12)) ** months_remaining
     # Print the future value of the car to 2 decimal places.
     return future_value
