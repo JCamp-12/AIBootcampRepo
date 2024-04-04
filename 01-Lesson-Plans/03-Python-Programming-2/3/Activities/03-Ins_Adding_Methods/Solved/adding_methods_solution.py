@@ -30,7 +30,7 @@ class Car:
 
 
 # Create an instance of the Car class.
-my_car = Car("Toyota")
+my_car = Car("Toyota", "rav4")
 
 # Get the initial  make of the car.
 initial_make = my_car.get_make()
